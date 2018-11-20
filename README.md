@@ -12,9 +12,9 @@
 [![Help Contribute to Open Source](https://www.codetriage.com/oblac/jodd/badges/users.svg)](https://www.codetriage.com/oblac/jodd)
 
 
-> We want to inspire the world to create. To use tech skills and build something truly... Awesome. Beautiful. Helpful. Impactful. Now you can produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.
+> 我们希望激励世界创造。 使用技术技能并真正构建一些东西......太棒了。 美丽。很有帮助。影响力。 现在，您可以生成轻量级代码，并专注于释放您的全部潜力。 Jodd是一组开发人员友好的开源Java微框架。 它旨在使事情变得简单，但并不简单.
 
-+ Official web site (site & documentation): https://jodd.org
++ 官方网站 (site & documentation): https://jodd.org
 + Jodd micro-frameworks (30 min overview): https://joddframework.org
 + Talk to Jodd via [gitter](https://gitter.im/oblac/jodd) or [slack](https://jodd.slack.com).
 
@@ -22,7 +22,7 @@
 
 # :zap: Jodd
 
-**Jodd** is set of micro-frameworks and developer-friendly tools and utilities.
+**Jodd** 是一套微框架和开发人员友好的工具和实用程序.
 
 _Use what you like._
 
